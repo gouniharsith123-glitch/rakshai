@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# build files
+dist/
+
+# logs
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# environment variables
+.env
+.env.local
+.env.production 
